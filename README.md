@@ -32,11 +32,10 @@ Here are some ideas to get you started:
   
   <div>  -->
 
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="[https://discord.gg/wagxzStdcR](https://discord.gg)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="" target="_blank"><img src="https://img.shields.io/pypi/wheel/YES?label=PORTIFOLIO&style=for-the-badge" target="_blank"></a>
+  <a href="https://www.instagram.com//secretive_plotter" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/sunil-kumar-415616218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://sunil-kumar-p.github.io/resume/" target="_blank"><img src="https://img.shields.io/pypi/wheel/YES?label=PORTIFOLIO&style=for-the-badge" target="_blank"></a>
 </div>
   
 ![snake gif](https://github.com/JuniorOliveiraj/JuniorOliveiraj/blob/output/github-contribution-grid-snake.svg)
