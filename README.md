@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/JuniorOliveiraj/JuniorOliveiraj/blob/output/github-contribution-grid-snake.svg)
 
 
+[![](https://komarev.com/ghpvc/?username=Sunil-Kumar-P&style=for-the-badge&color=006bb3)](https://github.com/Sunil-Kumar-P)
+
+![](./metrics.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
