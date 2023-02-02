@@ -35,8 +35,7 @@ Here are some ideas to get you started:
   <div>  -->
 
   <a href="https://www.instagram.com//secretive_plotter" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/sunil-kumar-415616218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Gmail Badge](https://img.shields.io/badge/-tu.lna07@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:tu.lna07@gmail.com)](mailto:tu.lna07@gmail.com)      <a href="https://www.linkedin.com/in/sunil-kumar-415616218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://sunil-kumar-p.github.io/resume/" target="_blank"><img src="https://img.shields.io/pypi/wheel/YES?label=PORTIFOLIO&style=for-the-badge" target="_blank"></a>
 </div>
   
