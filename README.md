@@ -1,7 +1,7 @@
 ### SUNIL KUMAR P 
 <!--
 **Sunil-Kumar-P/Sunil-Kumar-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🏫 Completed Diploma in Computer Science and Engineering(CSE) <a href="https://gpt.karnataka.gov.in/gptimmadihalli/public/en">@ Government Polytechnic Immadihalli, Whitefield</a>
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Game development using Python/JavaScript
 - 🤔 I’m looking for help with Game development using Python/JavaScript
 - ⚡ Hobbies: Animes, Webtoons/Manga, Games(BGMI, Real Cricket) etc
--->
+
 <!--<div align="center">
   <a href="https://github.com/JuniorOliveiraj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
