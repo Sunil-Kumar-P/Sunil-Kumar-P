@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🏫 Completed Diploma in Computer Science and Engineering(CSE) <a href="https://gpt.karnataka.gov.in/gptimmadihalli/public/en">@ Government Polytechnic Immadihalli, Whitefield</a>
-- 📖 Currently persuing BE in CSE <a href="https://www.cmrit.ac.in/">@ CMR Institute of Technology,Bengaluru</a>
+- 📖 Currently persuing BE in CSE <a href="https://www.cmrit.ac.in/" ontarget="_blank">@ CMR Institute of Technology,Bengaluru</a>
 - 👯 Member @Varient-Coders , @You-Can-Play
 - 👌 Willing to work with other techies on various projects
 - 💬 Ask me about Web Development, Game Development. Networking and DBMS
