@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📖 Currently persuing BE in CSE <a href="https://www.cmrit.ac.in/" target="_blank">@ CMR Institute of Technology,Bengaluru</a>
 - 👯 Member <a href="https://github.com/orgs/Variant-Coders/" target="_blank">@Varient-Coders</a> , <a href="https://github.com/orgs/You-Can-Play/" target="_blank">@You-Can-Play</a>
 - 👌 Willing to work with other techies on various projects
-- 💬 Ask me about Web Development, Game Development. Networking and DBMS
+- 💬 Ask me about Web Development, Game Development. Computer Networks and DBMS
 
 - 🔭 I’m currently working on Game Development with Body Gestures(MediaPipe) 
 - 🌱 I’m currently learning Computer Science and Engineering
