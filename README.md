@@ -1,8 +1,6 @@
 ### SUNIL KUMAR P 
-<!--
-**Sunil-Kumar-P/Sunil-Kumar-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+
+
 
 - 🏫 Completed Diploma in Computer Science and Engineering(CSE) <a href="https://gpt.karnataka.gov.in/gptimmadihalli/public/en" target="_blank">@ Government Polytechnic Immadihalli, Whitefield</a>
 - 📖 Currently persuing BE in CSE <a href="https://www.cmrit.ac.in/" target="_blank">@ CMR Institute of Technology,Bengaluru</a>
