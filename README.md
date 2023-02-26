@@ -14,6 +14,13 @@
 - 🤔 I’m looking for help with Game development using Python/JavaScript
 - ⚡ Hobbies: Animes, Webtoons/Manga, Games(BGMI, Real Cricket) etc
 
+[![](https://komarev.com/ghpvc/?username=Sunil-Kumar-P&style=for-the-badge&color=006bb3)](https://github.com/Sunil-Kumar-P)
+
+![](./metrics.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dark)
 <!--<div align="center">
   <a href="https://github.com/JuniorOliveiraj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -44,11 +51,4 @@
 ![snake gif](https://github.com/JuniorOliveiraj/JuniorOliveiraj/blob/output/github-contribution-grid-snake.svg)
 
 
-[![](https://komarev.com/ghpvc/?username=Sunil-Kumar-P&style=for-the-badge&color=006bb3)](https://github.com/Sunil-Kumar-P)
-
-![](./metrics.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dark)
 
