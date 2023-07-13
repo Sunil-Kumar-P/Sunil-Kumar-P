@@ -17,7 +17,7 @@
 [![](https://komarev.com/ghpvc/?username=Sunil-Kumar-P&style=for-the-badge&color=006bb3)](https://github.com/Sunil-Kumar-P)
 
 ![](./metrics.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)]
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dark)
