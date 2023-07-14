@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)]
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dark(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dark (https://github.com/anuraghazra/github-readme-stats)
 <br>
   <a href="https://www.instagram.com//secretive_plotter" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 [![Gmail Badge](https://img.shields.io/badge/-sunilkpg23@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:sunilkp23@gmail.com)](mailto:sunilkpg23@gmail.com)    
