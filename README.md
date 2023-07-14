@@ -17,10 +17,11 @@
 [![](https://komarev.com/ghpvc/?username=Sunil-Kumar-P&style=for-the-badge&color=006bb3)](https://github.com/Sunil-Kumar-P)
 
 ![](./metrics.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dark 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dark)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunilkumarp)](https://github.com/anuraghazra/github-readme-stats)
 <br>
   <a href="https://www.instagram.com//secretive_plotter" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 [![Gmail Badge](https://img.shields.io/badge/-sunilkpg23@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:sunilkp23@gmail.com)](mailto:sunilkpg23@gmail.com)    
@@ -28,6 +29,5 @@
       <a href="https://sunil-kumar-p.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/pypi/wheel/YES?label=PORTIFOLIO&style=for-the-badge" target="_blank"></a>
 </div>
   
-
 
 
