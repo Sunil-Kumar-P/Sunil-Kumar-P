@@ -18,8 +18,11 @@
 
 ![](./metrics.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)](https://github.com/Sunil-kumar-p)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,react)](https://skillicons.dev)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sunil-Kumar-P&theme=dark)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-P&show_icons=true&theme=dark)
 
 <br>
