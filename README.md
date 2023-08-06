@@ -6,7 +6,7 @@
 
 - 👯 Member of <a href="https://github.com/orgs/Variant-Coders/" target="_blank">@Varient-Coders</a> , <a href="https://github.com/orgs/You-Can-Play/" target="_blank">@You-Can-Play</a> GitHub Organization.
 - 👌 Willing to work with other techies on various projects
-- 💬 Ask me about Web Development, Game Development. Computer Networks and DBMS
+- 💬 Ask me about Web Development, Game Development, Android Development, Computer Networks and DBMS
 
 - 🔭 I’m currently working on Game Development with Body Gestures(MediaPipe) 
 - 🌱 I’m currently learning Computer Science and Engineering
