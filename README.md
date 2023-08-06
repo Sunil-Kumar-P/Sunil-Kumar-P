@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Computer Science and Engineering
 - 👯 I’m looking to collaborate on Game development using Python/JavaScript/Unity
 - 🤔 I’m looking for help with Game development using Python/JavaScript/Unity
-- ⚡ Hobbies: Animes, Webtoons/Manga, Games(BGMI, Real Cricket) etc
+- ⚡ Hobbies: Animes, Webtoons/Manga, Games(BGMI, COD, Real Cricket) etc
 
 [![](https://komarev.com/ghpvc/?username=Sunil-Kumar-P&style=for-the-badge&color=006bb3)](https://github.com/Sunil-Kumar-P)
 
