@@ -1,6 +1,6 @@
 ### SUNIL KUMAR P 
 
-- 📖 Currently persuing BE in CSE <a href="https://www.cmrit.ac.in/" target="_blank">@ CMR Institute of Technology,Bengaluru</a>
+- 📖 Completed BE in CSE <a href="https://www.cmrit.ac.in/" target="_blank">@ CMR Institute of Technology,Bengaluru</a>
 
 - 🏫 Completed Diploma in Computer Science and Engineering(CSE) <a href="https://gpt.karnataka.gov.in/gptimmadihalli/public/en" target="_blank">@ Government Polytechnic Immadihalli, Whitefield</a>
 
