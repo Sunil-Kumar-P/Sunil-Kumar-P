@@ -8,7 +8,7 @@
 - 👌 Willing to work with other techies on various projects
 - 💬 Ask me about Web Development, Game Development, Android Development, Computer Networks and DBMS
 
-- 🔭 I’m currently working on Game Development with Body Gestures
+- 🔭 I’m currently working on Game Development with Computer Vision Gesture Recogintion
 - 🌱 I’m currently learning Computer Science and Engineering
 - 👯 I’m looking to collaborate on Game development using Python/JavaScript/Unity
 - 🤔 I’m looking for help with Game development using Python/JavaScript/Unity
