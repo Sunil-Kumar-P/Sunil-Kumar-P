@@ -17,8 +17,6 @@
 [![](https://komarev.com/ghpvc/?username=Sunil-Kumar-P&style=for-the-badge&color=006bb3)](https://github.com/Sunil-Kumar-P)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-P&layout=compact)](https://github.com/Sunil-kumar-p)
-
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,unity,react,nextjs,php)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sunil-Kumar-P&theme=dark)](https://git.io/streak-stats)
